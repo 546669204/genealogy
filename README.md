@@ -1,5 +1,9 @@
 # genealogy
 
+使用canvas画族谱
+
+![avatar](./screenshot/1.png)
+
 ## Project setup
 ```
 yarn install
