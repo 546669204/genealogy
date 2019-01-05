@@ -1,7 +1,7 @@
 {
   "defaultSeverity": "warning",
   "extends": [
-    "tslint:recommended"
+    // "tslint:recommended"
   ],
   "linterOptions": {
     "exclude": [
@@ -9,8 +9,8 @@
     ]
   },
   "rules": {
-    "quotemark": [true, "single"],
-    "indent": [true, "spaces", 2],
+    "quotemark": [false, "single"],
+    "indent": [false, "spaces", 2],
     "interface-name": false,
     "ordered-imports": false,
     "object-literal-sort-keys": false,
